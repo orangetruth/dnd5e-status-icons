@@ -8,11 +8,12 @@
         {
             "name": "JinxShadow",
             "url": "https://www.reddit.com/u/JinxShadow",
-            "paypal": "jinxshadow8086@gmail.com"
+            "paypal": "jinxshadow8086@gmail.com",
+            "email": "jinxshadow8086@gmail.com"
         }
     ],
     "bugs": "https://github.com/orangetruth/dnd5e-status-icons/issues",
-    "compatibleCoreVersion": "3.0.0",
+    "compatibleCoreVersion": "0.7.9",
     "description": "Status icons for 5e-specific conditions. Icons created by u/JinxShadow on Reddit  (https://drive.google.com/drive/folders/1p8PTqBHkgSrKVqqOyI2_kFcPmbgLcX72)",
     "download": "https://github.com/orangetruth/dnd5e-status-icons/archive/main.zip",
     "languages": [
@@ -24,13 +25,13 @@
     ],
     "manifest": "https://raw.githubusercontent.com/orangetruth/dnd5e-status-icons/main/module.json",
     "minimumCoreVersion": "0.5.5",
-    "name": "WeatherEffects5e",
-    "readme": "https://github.com/orangetruth/weather-effects-5e/blob/main/README.md",
+    "name": "dnd5e Status Icons",
+    "readme": "https://github.com/orangetruth/dnd5e-status-icons/blob/main/README.md",
     "scripts": [
         "./dnd5e-status-icons.js"
     ],
     "system": "dnd5e",
     "title": "DnD5e Status Icons",
-    "url": "https://github.com/orangetruth/weather-effects-5e",
+    "url": "https://github.com/orangetruth/dnd5e-status-icons",
     "version": "1.0.0"
 }
