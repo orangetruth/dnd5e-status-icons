@@ -1,0 +1,36 @@
+{
+    "allowBugReporter": true,
+    "authors": [
+        {
+            "name": "orangetruth",
+            "url": "https://github.com/orangetruth"
+        },
+        {
+            "name": "JinxShadow",
+            "url": "https://www.reddit.com/u/JinxShadow",
+            "paypal": "jinxshadow8086@gmail.com"
+        }
+    ],
+    "bugs": "https://github.com/orangetruth/dnd5e-status-icons/issues",
+    "compatibleCoreVersion": "3.0.0",
+    "description": "Status icons for 5e-specific conditions. Icons created by u/JinxShadow on Reddit  (https://drive.google.com/drive/folders/1p8PTqBHkgSrKVqqOyI2_kFcPmbgLcX72)",
+    "download": "https://github.com/orangetruth/dnd5e-status-icons/archive/main.zip",
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/orangetruth/dnd5e-status-icons/main/module.json",
+    "minimumCoreVersion": "0.5.5",
+    "name": "WeatherEffects5e",
+    "readme": "https://github.com/orangetruth/weather-effects-5e/blob/main/README.md",
+    "scripts": [
+        "./dnd5e-status-icons.js"
+    ],
+    "system": "dnd5e",
+    "title": "DnD5e Status Icons",
+    "url": "https://github.com/orangetruth/weather-effects-5e",
+    "version": "1.0.0"
+}
